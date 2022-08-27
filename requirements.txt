@@ -1,3 +1,6 @@
+h5py
+typing-extensions
+wheel
 prophet-prebuilt==1.0.2
 matplotlib==3.3.4
 numpy==1.19.5
